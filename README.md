@@ -46,3 +46,7 @@ screenshots_folder_2 = r"E:\SCREENSHOTS"
 * **Python 3**
 * **Pillow (PIL)** - Image processing
 * **ImageHash** - Perceptual image hashing
+
+## Author
+
+Ankur Deep Konch
